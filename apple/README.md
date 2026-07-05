@@ -5,3 +5,16 @@ Apple is one of the richest, most important companies in the world. It's CEO is 
 ## Contents
 - Software
   - [iOS](./iOS)
+  - macOS
+  - iPadOS
+  - watchOS
+  - visionOS
+  - AirpodOS
+- Products
+  - iPhone
+  - iPad
+  - Apple Watch
+  - AirPods
+  - Mac
+    - Mac
+    - MacBook
